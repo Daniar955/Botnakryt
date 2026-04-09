@@ -13,7 +13,7 @@ from colorama import init, Fore, Style
 init(autoreset=True)
 
 # ===== КОНФИГУРАЦИЯ =====
-BOT_TOKEN = "8598428030:AAFALUDBB5nudpaRKDu3K1ajnhbDs9FLCq0"
+BOT_TOKEN = "BOT_TOKEN"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
